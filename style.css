@@ -1,3 +1,4 @@
+@media screen and (max-width: 767px) {
 .wrapper {
   font-size: 100%;
   font: georgia;
@@ -18,4 +19,5 @@
  text-align: center;
  text-shadow: 2px 4px 10px black;
  text-transform: uppercase;
+}
 }
