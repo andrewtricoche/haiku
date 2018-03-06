@@ -2,6 +2,7 @@
   font-size: 100%;
   font: georgia;
   line-height: .8em;
+  background-color: blue;
 }
 .headline {
   font-size: 5em;
@@ -19,4 +20,4 @@
  text-shadow: 2px 4px 10px black;
  text-transform: uppercase;
 }
-background-color: pink;
+
