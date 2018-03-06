@@ -6,3 +6,11 @@
   text-transform: uppercase;
   color: green;
   }
+.name {
+  text-transform: uppercase;
+  text-align: center;
+}
+.text {
+ font-size 8em;
+ text-align: center;
+}
