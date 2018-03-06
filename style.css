@@ -3,6 +3,7 @@
   font: georgia;
   line-height: .8em;
   background-color: maroon;
+  font-color: white;
 }
 .headline {
   font-size: 5em;
@@ -16,7 +17,6 @@
 .text {
  font-size: 3.4em;
  text-align: center;
- text-shadow: 2px 4px 10px black;
  text-transform: uppercase;
 }
 
