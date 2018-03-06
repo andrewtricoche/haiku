@@ -9,7 +9,7 @@
   color: green;
   }
 .name {
-  text-transform: uppercase;
+  text-transform: lowercase;
   text-align: center;
 }
 .text {
