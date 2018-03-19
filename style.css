@@ -9,15 +9,12 @@
 .headline {
   font-size: 5em;
   text-align: center;
-  text-transform: uppercase;
   }
 .name {
-  text-transform: lowercase;
   text-align: center;
 }
 .text {
  font-size: 3.4em;
  text-align: center;
- text-transform: uppercase;
 }
 
